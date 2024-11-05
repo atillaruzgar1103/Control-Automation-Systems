@@ -1,0 +1,10 @@
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\bin\Debug\cartcurtkayit.exe.config
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\bin\Debug\cartcurtkayit.exe
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\bin\Debug\cartcurtkayit.pdb
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\obj\Debug\cartcurtkayit.csproj.AssemblyReference.cache
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\obj\Debug\cartcurtkayit.Form1.resources
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\obj\Debug\cartcurtkayit.Properties.Resources.resources
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\obj\Debug\cartcurtkayit.csproj.GenerateResource.cache
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\obj\Debug\cartcurtkayit.csproj.CoreCompileInputs.cache
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\obj\Debug\cartcurtkayit.exe
+C:\Users\Lab314\source\repos\cartcurtkayit\cartcurtkayit\obj\Debug\cartcurtkayit.pdb

@@ -1,0 +1,11 @@
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\bin\Debug\emlakkayit.exe.config
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\bin\Debug\emlakkayit.exe
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\bin\Debug\emlakkayit.pdb
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\obj\Debug\emlakkayit.csproj.AssemblyReference.cache
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\obj\Debug\emlakkayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\obj\Debug\emlakkayit.Form1.resources
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\obj\Debug\emlakkayit.Properties.Resources.resources
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\obj\Debug\emlakkayit.csproj.GenerateResource.cache
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\obj\Debug\emlakkayit.csproj.CoreCompileInputs.cache
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\obj\Debug\emlakkayit.exe
+C:\Users\rzgra\source\repos\emlakkayit\emlakkayit\obj\Debug\emlakkayit.pdb
